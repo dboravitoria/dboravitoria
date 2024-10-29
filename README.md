@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá prazer, me chamo Débora e sou estudante de Desenvolvimento Fullstack JavaScript :smile:
+
+Minhas Softs Skills: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 
 <!--
 **dboravitoria/dboravitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
