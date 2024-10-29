@@ -2,7 +2,7 @@
 <hr>
 Em constante desenvolvimento e evolução, cada dias mais aprendendo com amor essas Hards Skills: 
 
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,npm,babel,py,flask,mysql&size=35)](https://skillicons.dev)
 
