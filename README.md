@@ -1,4 +1,4 @@
-## Oii prazer, me chamo Débora e sou estudante de Desenvolvimento Fullstack JavaScript :smile:
+## Oii prazer, me chamo Débora e sou estudante de Desenvolvimento Front-end :smile:
 <hr>
 Em constante desenvolvimento e evolução, cada dia mais aprendendo com amor essas Hards Skills: 
 
