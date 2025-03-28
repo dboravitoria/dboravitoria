@@ -4,7 +4,7 @@ Em constante desenvolvimento e evolução, cada dia mais aprendendo com amor ess
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,npm,babel,py,flask,mysql&size=35)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,git,nodejs,npm,py,flask,mysql&size=35)](https://skillicons.dev)
 
 <hr>
 <!--
