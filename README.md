@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&theme=light&perline=6" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,figma,tailwind,nodejs,npm,webpack,mysql&theme=dark&perline=6" alt="My Skills" />
 </div>
 
 ---
