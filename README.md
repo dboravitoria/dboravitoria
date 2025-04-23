@@ -10,19 +10,23 @@
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23f7768e" alt="Nível de Inglês" />
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23AA2132" alt="Nível de Inglês" />
 
   <br><br>
 
 
+  <h2>🌱 Atualmente estudando</h2>
+  <ul>
+    <li>JavaScript avançado (DOM, assíncrono)</li>
+    <li>React.js e ecossistema</li>
+    <li>UI/UX com Figma</li>
+    <li>Criação de portfólio profissional</li>
+  </ul>
+
 </div>
 
 
-### 🌱 Atualmente estudando:
-- JavaScript avançado (DOM, assíncrono)
-- React.js e ecossistema
-- UI/UX com Figma
-- Criação de portfólio profissional
+
 
 
 
