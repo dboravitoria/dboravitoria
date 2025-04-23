@@ -12,6 +12,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,figma,tailwind,nodejs,npm,webpack,mysql&theme=dark&perline=6" alt="My Skills" />
 </div>
 
+<div align="center">
+  ![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23f7768e) 
+</div>
 ---
 
 ### 🌱 Atualmente estudando:
