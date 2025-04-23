@@ -16,12 +16,10 @@
 
 
   <h2>🌱 Atualmente estudando</h2>
-  <ul>
-    <li>JavaScript avançado (DOM, assíncrono)</li>
-    <li>React.js e ecossistema</li>
-    <li>UI/UX com Figma</li>
-    <li>Criação de portfólio profissional</li>
-  </ul>
+    <p>JavaScript avançado (DOM, assíncrono)</p>
+    <p>React.js e ecossistema</p>
+    <p>UI/UX com Figma</p>
+    <p>Criação de portfólio profissional</p>
 
 </div>
 
