@@ -1,22 +1,22 @@
-## 👋 Oii, prazer! Me chamo Débora  
-🎯 Estudante de Desenvolvimento Front-end apaixonada por tecnologia.
+<div align="center" style="padding: 20px; border: 2px solid #f7768e; border-radius: 20px; max-width: 800px; margin: auto; box-shadow: 0 0 10px #f7768e;">
 
----
+  <h2>👋 Oii, prazer! Me chamo Débora</h2>
+  <p>💻 Estudante de <strong>Desenvolvimento Front-end</strong><br>
+  Em constante aprendizado e apaixonada por tecnologia!</p>
 
-### 🚀 Em constante evolução
+  <br>
 
----
-
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,figma,tailwind,nodejs,npm,webpack,mysql&theme=dark&perline=6" alt="My Skills" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23f7768e" alt="Nível de Inglês" />
+
+  <br><br>
+
+
 </div>
 
----
-<div align="center">
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23f7768e"/>
-</div>
----
 
 ### 🌱 Atualmente estudando:
 - JavaScript avançado (DOM, assíncrono)
@@ -25,9 +25,7 @@
 - Criação de portfólio profissional
 
 
----
 
-✨ Obrigada por passar aqui! Volte sempre 😄
 
 <!--
 **dboravitoria/dboravitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
