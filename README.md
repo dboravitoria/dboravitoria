@@ -1,12 +1,34 @@
-## Oii prazer, me chamo Débora e sou estudante de Desenvolvimento Front-end :smile:
-<hr>
-Em constante desenvolvimento e evolução, cada dia mais aprendendo com amor essas Hards Skills: 
+## 👋 Oii, prazer! Me chamo Débora  
+🎯 Estudante de Desenvolvimento Front-end apaixonada por tecnologia.
 
-<br>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&size=35)](https://skillicons.dev)
+### 🚀 Em constante evolução
+<div align="center">
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&size=40)](https://skillicons.dev)
+  <br><br>
+</div>
 
-<hr>
+---
+
+### 🌱 Atualmente estudando:
+- JavaScript avançado (DOM, assíncrono)
+- React.js e ecossistema
+- UI/UX com Figma
+- Criação de portfólio profissional
+
+---
+
+### 📫 Vamos conversar?
+Se quiser trocar uma ideia, fique à vontade pra me chamar:
+- [LinkedIn](https://www.linkedin.com/)
+- Email: seu.email@exemplo.com
+
+---
+
+✨ Obrigada por passar aqui! Volte sempre 😄
+
 <!--
 **dboravitoria/dboravitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
