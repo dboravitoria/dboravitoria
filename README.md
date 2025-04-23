@@ -4,9 +4,13 @@
 ---
 
 ### 🚀 Em constante evolução
+
+---
+
+
 <div align="center">
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&size=40)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&size=35)](https://skillicons.dev)
   <br><br>
 </div>
 
