@@ -9,9 +9,7 @@
 
 
 <div align="center">
-  <br>
-  [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&size=35)](https://skillicons.dev)
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,figma,tailwind,nodejs,npm,webpack,mysql&theme=light&perline=6" alt="My Skills" />
 </div>
 
 ---
@@ -22,12 +20,6 @@
 - UI/UX com Figma
 - Criação de portfólio profissional
 
----
-
-### 📫 Vamos conversar?
-Se quiser trocar uma ideia, fique à vontade pra me chamar:
-- [LinkedIn](https://www.linkedin.com/)
-- Email: seu.email@exemplo.com
 
 ---
 
