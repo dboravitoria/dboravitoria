@@ -6,7 +6,7 @@
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,figma,tailwind,nodejs,npm,webpack,mysql&theme=dark&perline=6" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,figma,tailwind,materialui,nodejs,npm,webpack,mysql&theme=dark&perline=6" alt="My Skills" />
 
   <br><br>
 
