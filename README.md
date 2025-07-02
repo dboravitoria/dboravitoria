@@ -6,29 +6,10 @@
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,typescript,git,figma,tailwind,bootstrap,sass,materialui,nodejs,npm,webpack,python,linux&theme=dark&perline=6" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,typescript,git,figma,tailwind,bootstrap,sass,materialui,nodejs,npm,python&theme=dark&perline=6" alt="My Skills" />
 
   <br><br>
 
   <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23AA2132" alt="Nível de Inglês" />
 
   <br><br>
-
-
-
-
-
-<!--
-**dboravitoria/dboravitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
