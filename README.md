@@ -1,4 +1,4 @@
-<div align="center" style="padding: 20px; border: 2px solid #f7768e; border-radius: 20px; max-width: 800px; margin: auto; box-shadow: 0 0 10px #f7768e;">
+<div align="center">
 
   <h2>👋 Oii, prazer! Me chamo Débora</h2>
   <p>💻 Estudante de <strong>Desenvolvimento Front-end</strong><br>
@@ -10,6 +10,10 @@
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23AA2132" alt="Nível de Inglês" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
   <br><br>
+
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23AA2132" alt="Nível de Inglês" />
+
+</div>
