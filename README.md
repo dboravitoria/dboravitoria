@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23AA2132" alt="Nível de Inglês" />
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,sass,materialui,radixui,framer-motion,nodejs,express,git,figma&theme=dark&perline=6" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,sass,materialui,vite,nodejs,express,mysql,git,figma&theme=dark&perline=6" alt="My Skills" />
 
   <br><br>
 
