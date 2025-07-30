@@ -3,12 +3,13 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Débora+%7C+Desenvolvedora+Front-end...;Apaixonada+por+tecnologia+e+café;Criando+interfaces+com+amor+e+React" />
   </p>
-  
-  - 🎓 Formanda em **Desenvolvimento de Software**
-  - 🚀 Buscando minha primeira oportunidade na área de tecnologia
-  - ✨ Apaixonada por criar interfaces lindas e acessíveis!
-  - 🎯 Objetivo: ser referência em desenvolvimento front-end e contribuir com projetos incríveis!
-  
+
+  <ul style="list-style:none;">  
+    <li>🎓 Formanda em **Desenvolvimento de Software**</li>
+    <li>🚀 Buscando minha primeira oportunidade na área de tecnologia</li>
+    <li>✨ Apaixonada por criar interfaces lindas e acessíveis!</li>
+    <li>🎯 Objetivo: ser referência em desenvolvimento front-end e contribuir com projetos incríveis!</li>
+  </ul>
 
   <br>
   <img src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23AA2132" alt="Nível de Inglês" />
