@@ -19,7 +19,7 @@
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,sass,materialui,vite,nodejs,express,mysql,git,figma&theme=dark&perline=6" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,react,tailwind,bootstrap,sass,materialui,vite,nodejs,express,mysql,git,figma&theme=dark&perline=6" alt="My Skills" />
       </td>
       <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dboravitoria&layout=compact&theme=radical" alt="Top Languages" />
